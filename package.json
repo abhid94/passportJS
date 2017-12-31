@@ -1,0 +1,19 @@
+{
+  "name": "passportjs",
+  "version": "1.0.0",
+  "description": "Authentication using PassportJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhid94/passportJS.git"
+  },
+  "author": "abhid94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhid94/passportJS/issues"
+  },
+  "homepage": "https://github.com/abhid94/passportJS#readme"
+}
